@@ -1,0 +1,3 @@
+module fungsi-return
+
+go 1.21.3
